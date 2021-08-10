@@ -19,7 +19,6 @@
 - A
 - B
 - C
-- ML
 
 ## PyTorch
 
@@ -48,14 +47,6 @@ Data Analysis에 사용되는 이론적인 배경과 코드에 대해 정리
 ## Code_Snippet
 
 자주 사용되는 코드들을 정리
-
-- A
-- B
-- C
-
-## ML
-
-제목이 중복되면 contents에서 어떻게 링크되는지 테스트용
 
 - A
 - B
