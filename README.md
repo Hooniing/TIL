@@ -8,7 +8,7 @@
 - [PyTorch](#PyTorch)
 - [ML](#ML)
 - [DA](#DA)
-- [Code Snippet](#Code Snippet)
+- [Code Snippet](#Code_Snippet)
 
 ## 알고리즘
 
@@ -43,7 +43,7 @@ Data Analysis에 사용되는 이론적인 배경과 코드에 대해 정리
 - B
 - C
 
-## Code Snippet
+## Code_Snippet
 
 자주 사용되는 코드들을 정리
 
