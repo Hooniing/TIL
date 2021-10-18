@@ -60,7 +60,7 @@ Data Analysis에 사용되는 이론적인 배경과 코드에 대해 정리
 
 ## ToDo List
 
-앞으로 해야될 것 정리
+[바로가기](./ToDo/README.md)
 
 
 
