@@ -5,10 +5,20 @@
 ## Contents
 
 - [알고리즘](#알고리즘)
-- [PyTorch](#PyTorch)
+- [Deep Learning / ML](#Deep Learning / ML)
+  - [PyTorch](#PyTorch)
 - [ML](#ML)
+  - 
 - [DA](#DA)
+  - [Statistics](#Statistics)
+  - [Python](#Python)
+  - [SQL](#SQL)
+  - [Excel(VBA)](#Excel(VBA))
+  - [BI](#BI)
 - [Code Snippet](#Code_Snippet)
+  - [Python](#Python)
+- [ToDo List](#ToDo List)
+  - 
 
 --------------------------
 
@@ -16,46 +26,41 @@
 
 이것이 취업을 위한 코딩 테스트다 with 파이썬(나동빈 저)에 있는 내용들을 위주로 공부한 내용을 정리
 
-- A
-- B
-- C
+- TBU
 
-## PyTorch
 
-PyTorch에 쓰이는 코드들을 정리
 
-- A
-- B
-- C
+## Deep Learning / ML
 
-## ML
+Deep Learning 및 ML에 대한 개념, 코드 정리
 
-Machine Learning에 쓰이는 이론적인 배경(통계, 수학, 선형대수)에 대해 정리
+- TBU
 
-- A
-- B
-- C
+  
 
 ## DA
 
 Data Analysis에 사용되는 이론적인 배경과 코드에 대해 정리
 
-- A
-- B
-- C
+- [Statistics]
+- [Python]
+- [SQL]
+- [Excel(VBA)]
+- [BI]
+
+
 
 ## Code_Snippet
 
 자주 사용되는 코드들을 정리
 
-- A
-- B
-- C
+- [Python]
 
-## Excel
 
-엑셀 및 VBA에 대한 내용들을 정리
 
-- A
-- B
-- C
+## ToDo List
+
+앞으로 해야될 것 정리
+
+
+
