@@ -6,15 +6,17 @@
 
 - [Algorithm](#Algorithm)
   - [TBU](./Algorithm/README.md)
-- [Deep Learning](#Deep Learning)
-  - [Theory](./Deep_Learning_ML/Theory/README.md)
-  - [PyTorch](./Deep_Learning_ML/PyTorch/README.md)
 - [DA](#DA)
   - [Statistics](./DA/Statistics/README.md)
   - [Python](./DA/Python/README.md)
   - [SQL](./DA/SQL/README.md)
   - [Excel(VBA)](./DA/Excel(VBA)/README.md)
   - [BI](./DA/BI/README.md)
+
+- [Deep Learning](#Deep Learning)
+  - [Theory](./Deep_Learning/Theory/README.md)
+  - [PyTorch](./Deep_Learning/PyTorch/README.md)
+
 - [Code Snippet](#Code_Snippet)
   - [Python](#Python)
 - [ToDo List](./ToDo/README.md)
@@ -29,16 +31,6 @@
 
 
 
-## Deep Learning
-
-Deep Learning 및 ML에 대한 개념, 코드 정리
-
-- [Theory](./Deep_Learning/Theory/README.md)
-
-- [PyTorch](./Deep_Learning/PyTorch/README.md)
-
-  
-
 ## DA
 
 Data Analysis에 사용되는 이론과 각종 툴에 대해 정리
@@ -48,6 +40,15 @@ Data Analysis에 사용되는 이론과 각종 툴에 대해 정리
 - [SQL](./DA/SQL/README.md)
 - [Excel(VBA)](./DA/Excel(VBA)/README.md)
 - [BI](./DA/BI/README.md)
+
+
+
+## Deep Learning
+
+Deep Learning 및 ML에 대한 개념, 코드 정리
+
+- [Theory](./Deep_Learning/Theory/README.md)
+- [PyTorch](./Deep_Learning/PyTorch/README.md)
 
 
 
