@@ -6,7 +6,7 @@
 
 - [알고리즘](#알고리즘)
   - [TBU](./Algorithm/README.md)
-- [Deep Learning & ML](#Deep Learning / ML)
+- [Deep Learning and ML](#Deep Learning and ML)
   - [Theory](./Deep_Learning_ML/Theory/README.md)
   - [PyTorch](./Deep_Learning_ML/PyTorch/README.md)
 - [DA](#DA)
@@ -29,7 +29,7 @@
 
 
 
-## Deep Learning & ML
+## Deep Learning and ML
 
 Deep Learning 및 ML에 대한 개념, 코드 정리
 
