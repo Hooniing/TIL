@@ -43,7 +43,9 @@ SELECT시 중복값을 제외한 결과를 출력
 
 `ctrl+shift+e` 키로 실행계획을 볼 수 있음. DBMS 내부에서 어떤 동작을 취했는지 확인할 수 있다.
 
-![image-20211031015150176](C:/Users/COM/Desktop/GitHub/TIL/DA/SQL/assets/images/image-20211031015150176.png)
+![image-20211031015150176](C:/Users/COM/Desktop/GitHub/TIL/DA/SQL/images/image-20211031015150176.png)
+
+
 
 - Seq Scan : customer table의 모든 정보를 가져오기 위해서 처음부터 끝까지 다 읽었다.
 - 0.129초가 걸렸다.
