@@ -43,7 +43,7 @@ SELECT시 중복값을 제외한 결과를 출력
 
 `ctrl+shift+e` 키로 실행계획을 볼 수 있음. DBMS 내부에서 어떤 동작을 취했는지 확인할 수 있다.
 
-![image-20211031015150176](C:/Users/COM/Desktop/GitHub/TIL/DA/SQL/images/image-20211031015150176.png)
+![image-20211031015150176](images/image-20211031015150176.png)
 
 
 
@@ -86,7 +86,7 @@ CREATE TABLE T1 ( ID SERIAL NOT NULL PRIMARY KEY, BCOLOR VARCHAR, FCOLOR VARCHAR
 
 DML(Data Manipulation Language) - 데이터 조작어란? 정의된 데이터베이스에 입력된 레코드를 조회하거나 수정하거나 삭제하는 등의 역할을 하는 언어를 말합니다.
 
-![image-20211031024213816](assets/images/image-20211031024213816.png)
+![image-20211031024213816](images/image-20211031024213816.png)
 
 ``` sql
 INSERT
@@ -111,11 +111,11 @@ COMMIT; -- TABLE을 생성하기 위해서는 COMMIT이 필수적으로 필요�
 
 DCL(Data Control Language) - 데이터베이스에 접근하거나 객체에 권한을 주는등의 역할을 하는 언어를 입니다.
 
-![image-20211031024236654](assets/images/image-20211031024236654.png)
+![image-20211031024236654](images/image-20211031024236654.png)
 
-![image-20211031024250253](assets/images/image-20211031024250253.png)
+![image-20211031024250253](images/image-20211031024250253.png)
 
-![image-20211031024313529](assets/images/image-20211031024313529.png)
+![image-20211031024313529](images/image-20211031024313529.png)
 
 [Source](https://server-talk.tistory.com/159)
 
