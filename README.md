@@ -5,29 +5,30 @@
 ## Contents
 
 - [Algorithm](#Algorithm)
-  - [TBU](./Algorithm/README.md)
+  - [백준]
+  - [CS]
 - [DA](#DA)
-  - [Statistics](./DA/Statistics/README.md)
-  - [Python](./DA/Python/README.md)
+  - [Statistics]
+  - [Python]
   - [SQL](./DA/SQL/README.md)
-  - [Excel(VBA)](./DA/Excel(VBA)/README.md)
-  - [BI](./DA/BI/README.md)
+  - [Excel(VBA)]
+  - [BI]
 
-- [Deep Learning](#Deep Learning)
-  - [Theory](./Deep_Learning/Theory/README.md)
-  - [PyTorch](./Deep_Learning/PyTorch/README.md)
+- [AI](#AI)
+  - [Theory]
+  - [PyTorch]
 
 - [Code Snippet](#Code_Snippet)
-  - [Python](#Python)
+  - [Python]
 - [ToDo List](./ToDo/README.md)
 
 --------------------------
 
 ## Algorithm
 
-이것이 취업을 위한 코딩 테스트다 with 파이썬(나동빈 저)에 있는 내용들을 위주로 공부한 내용을 정리
+코딩테스트를 대비하기 위한 공부자료 정리 및 컴퓨터공학적인 내용 정리
 
-- [TBU](./Algorithm/README.md)
+- [TBU]
 
 
 
@@ -35,20 +36,20 @@
 
 Data Analysis에 사용되는 이론과 각종 툴에 대해 정리
 
-- [Statistics](./DA/Statistics/README.md)
-- [Python](./DA/Python/README.md)
+- [Statistics]
+- [Python]
 - [SQL](./DA/SQL/README.md)
 - [Excel(VBA)](./DA/Excel(VBA)/README.md)
-- [BI](./DA/BI/README.md)
+- [BI]
 
 
 
-## Deep Learning
+## AI
 
 Deep Learning 및 ML에 대한 개념, 코드 정리
 
-- [Theory](./Deep_Learning/Theory/README.md)
-- [PyTorch](./Deep_Learning/PyTorch/README.md)
+- [Theory]
+- [PyTorch]
 
 
 
@@ -56,7 +57,7 @@ Deep Learning 및 ML에 대한 개념, 코드 정리
 
 자주 사용되는 코드들을 정리
 
-- [Python](./Code_Snippet/Python/README.md)
+- [Python]
 
 
 
